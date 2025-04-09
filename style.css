@@ -18,6 +18,7 @@ body
     position: fixed;
     border:5px;
     margin: 3px;
+    flex: 0 0 30%;
 }
 
 .sidebar h2 {
